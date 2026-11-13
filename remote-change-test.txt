@@ -1,0 +1,2 @@
+Remote change test
+Created directly on GitHub to verify Git fetch and divergence detection.
